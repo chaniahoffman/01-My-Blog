@@ -10,4 +10,4 @@ I want to discuss the ideas of sustainable agriculture as they are seen at the h
 4. marketing techniques
 5. animal health
 
-include day to day activities that refelct these ideas 
+Include day to day activities that reflect these ideas. 
