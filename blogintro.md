@@ -1,3 +1,41 @@
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/chaniahoffman/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chaniahoffman/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
 # Farming School 
 
 I am part of the hog industry. My passion is pigs. Raising hogs is a hobby and a way of life for me, and I am constantly striving to learn all that I can about the hog industry and its ever-changing climate. I first began dealing with pigs through 4-H and since then, I have not been able to get away. I have grown from showing pigs at my county fair, to developing a Supervised Agricultural Experience in FFA, moving to working and becoming a student manager at my college’s hog farm, and completing an internship at a commercial hog farm. I have learned so much and have worked to make hog farming my way of life. Through my experiences, I have developed a unique perspective to raising hogs. This perspective is what I would like to share. My primary focus is my daily activities of working at the hog farm through my college and contributing some of my knowledge that I gained from working at a commercial facility. 
