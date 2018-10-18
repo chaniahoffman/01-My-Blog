@@ -6,10 +6,10 @@ I want to discuss the ideas of sustainable agriculture as they are seen at the h
 
 blog posts in order:
 1. housing/ production style
-a. pasture situations
+- pasture situations
 2. hog selection 
-3. feeding strategies
+3. feeding strategies and nutrition 
 4. animal health
-5. marketing techniques
+5. farrowing activities  
 
 Include day to day activities that reflect these ideas. 
