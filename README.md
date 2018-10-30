@@ -72,5 +72,7 @@ Raising pigs on pasture closely resembles their natural habitat and eliminates a
 ## Contact Me
 
 Chania Hofman 
+
 Phone: (417) 239-9395
+
 Email: chaniashoffman@student.cofo.edu
