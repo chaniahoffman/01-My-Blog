@@ -77,4 +77,4 @@ Phone: (417) 239-9395
 
 Email: chaniashoffman@student.cofo.edu
 
-![platt6300](https://user-images.githubusercontent.com/43041235/47735184-0252e100-dc3a-11e8-80ac-db200d220de0.jpg)
+
