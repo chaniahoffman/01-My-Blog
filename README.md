@@ -1,6 +1,7 @@
-# Learning to Think Big, but be Small 
+# **LEARNING TO THINK BIG, BUT BE SMALL** 
 
 
+***
 ## About Me
 
 I am Chania Hoffman. Currently, I am a senior at College of the Ozarks studying Animal Science and Agricultural Business. I grew up in central Missouri on a small farm where we raise poultry, sheep, cattle and of course…. PIGS!
