@@ -1,22 +1,10 @@
 # **LEARNING TO THINK BIG, BUT BE SMALL** 
 
 
-***
-## About Me
 
-I am Chania Hoffman. Currently, I am a senior at College of the Ozarks studying Animal Science and Agricultural Business. I grew up in central Missouri on a small farm where we raise poultry, sheep, cattle and of course…. PIGS!
-
-Raising hogs is a hobby and a way of life for me, and I am constantly striving to learn all that I can about the hog industry and its ever-changing atmosphere. I first began working with pigs through 4-H and since then, I have not been able to get away. I have grown from showing pigs at my county fair, to developing a Supervised Agricultural Experience in FFA, I started working and became a student manager at my college’s hog farm and have completed an internship at a commercial hog farm. I have learned a lot and have worked to make hog farming my way of life.
-
-My work experience includes;
-1.	County Line Acres (my family farm)
-2.	Audrain Veterinary Clinic
-3.	CofO Feed mill
-4.	CofO Hog Farm
-5.	Springer Family Foods
 
 ***
-## Introductory Blog 
+## What is Going On?  
 
 My college operates a small hog farm in southern Missouri. However, we are anything but typical. We have anywhere from 20-30 sows at a given time, but the catch is that our pigs are kept on pasture. Pasture pigs is a concept often considered outdated or not practical for the real world. Nevertheless, pasture raised pork is regaining some of its popularity, especially as a specialty product in niche markets. Our operation focuses on learning, and as a result, we employ various concepts throughout the farm to teach and challenge the students. We do face limitations that prevent us from experiencing all aspects of the commercial hog industry, but the skills learned can be easily transferred and built upon.
 
@@ -68,6 +56,20 @@ Housing is another factor when using a pasture setting. Each paddock has 2-3 hou
 In the summer, the houses provide additional shade. This is vital because pigs’ sunburn just like people do. If the sunburn is severe enough, the pig can develop an infection and become extremely sick. In the hot summer months, we run sprinklers to every pen of pigs. Pigs do not sweat and therefore wallow in mud to cool off.  Sprinklers help to keep the pigs cool by maintaining a section of mud. 
 
 Raising pigs on pasture closely resembles their natural habitat and eliminates a lot of overhead costs. It can be tricky to keep the pigs comfortable and contained, but the animals always seem happy and manage to perform well.  
+
+***
+## About Me
+
+I am Chania Hoffman. Currently, I am a senior at College of the Ozarks studying Animal Science and Agricultural Business. I grew up in central Missouri on a small farm where we raise poultry, sheep, cattle and of course…. PIGS!
+
+Raising hogs is a hobby and a way of life for me, and I am constantly striving to learn all that I can about the hog industry and its ever-changing atmosphere. I first began working with pigs through 4-H and since then, I have not been able to get away. I have grown from showing pigs at my county fair, to developing a Supervised Agricultural Experience in FFA, I started working and became a student manager at my college’s hog farm and have completed an internship at a commercial hog farm. I have learned a lot and have worked to make hog farming my way of life.
+
+My work experience includes;
+-	County Line Acres (my family farm)
+-	Audrain Veterinary Clinic
+-	CofO Feed mill
+-	CofO Hog Farm
+-	Springer Family Foods
 
 ***
 ## Contact Me
