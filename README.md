@@ -14,6 +14,7 @@ My work experience includes;
 4.	CofO Hog Farm
 5.	Springer Family Foods
 
+
 ## Introductory Blog 
 
 My college operates a small hog farm in southern Missouri. However, we are anything but typical. We have anywhere from 20-30 sows at a given time, but the catch is that our pigs are kept on pasture. Pasture pigs is a concept often considered outdated or not practical for the real world. Nevertheless, pasture raised pork is regaining some of its popularity, especially as a specialty product in niche markets. Our operation focuses on learning, and as a result, we employ various concepts throughout the farm to teach and challenge the students. We do face limitations that prevent us from experiencing all aspects of the commercial hog industry, but the skills learned can be easily transferred and built upon.
@@ -21,6 +22,7 @@ My college operates a small hog farm in southern Missouri. However, we are anyth
 With this writing experience, I am going to provide you, the reader, with a sense of what I do every day with my given level of exposure to hogs. My primary focus is my daily activities of working at the hog farm through my college and contributing some of my knowledge that I gained from working at a commercial facility. I will describe our selection criteria for pigs, maintaining animal health and welfare, as well as housing and containment in a pasture setting. Every day on the farm is different, but the main objectives are consistent. My goal is to share some of my passion for the industry. Raising hogs is not an easy or glorious job; it is dirty, time-consuming, smelly, and loud. However, it is also highly rewarding. Pigs are extremely intelligent creatures, and each one has a distinct personality that is seen over time. This brings many challenges to the farmer, but by overcoming and accepting the difficulties, the farmer gains pride in what he or she does.
 
 This blog is intended for anyone who has any interest in raising hogs. I can provide some groundwork concepts for those just starting out. This blog can also be used to introduce novel ideas for farmers who currently have hogs and want to try a different avenue. I cannot be fully inclusive or explain every aspect of the concepts of the hog industry. I can only explain what I know and what works for our operation. My hope is that the ideas and practices I discuss will fill you with interest into further research and will provide some new ideas to consider for your operation. The hog industry is diverse and thriving, and the little man is still able to contribute without over-extending resources. I want to demonstrate that the industry is approachable and accessible for all sizes of production. If not this, then I hope it is at least entertaining and brings awareness to agriculture and the passion that farmers possess.
+
 
 ## Choose the Right Pigs
 
@@ -38,6 +40,7 @@ Since our pigs run on dirt, I emphasize the structure of our breeding stock to e
 
 There are many factors that go into selecting good breeding stock for each operation. Careful consideration is needed when choosing replacement stock and which boars to breed to. A producer is not going to learn everything in one day, so research and talking to other fellow farmers proves valuable.  
 
+
 ## Healthy Pigs, More Money
 
 Animal health and welfare is the most important concept in the livestock industry. A producer cannot make money on animals that are not cared for properly. Administering to the health of the pigs begins on day one, sometimes before day one, and continues through the life of the pig. 
@@ -52,6 +55,7 @@ I put on an OB sleeve and lubed up. I cupped my hand and gently reached into the
 
 This is an example of the importance of caring for the animal health and welfare. If we had not been monitoring the gilt closely, the situation had the potential to be worse. Failure to assist in farrowing can result in the loss of an entire litter because the pigs become stressed while in the womb and die, the sow is unable to pass all of the pigs and is forced to abort the litter and mummify the piglets, or the sow or gilt can die due to stress, over-exertion, or even a heart attack. Timely responses in the farrowing process help to ensure healthy pigs which leads to better growth and vitality, resulting in more profit at market time.   
 
+
 ## Keeping the Pigs In
 
 All the pigs located on the CofO hog farm are raised on dirt. This means the sows are kept on pasture when they are not farrowing, and the pigs are moved to grow-out pens after they are weaned. This unusual setup presents many challenges when dealing with the weather and pig containment. 
@@ -63,6 +67,7 @@ Housing is another factor when using a pasture setting. Each paddock has 2-3 hou
 In the summer, the houses provide additional shade. This is vital because pigs’ sunburn just like people do. If the sunburn is severe enough, the pig can develop an infection and become extremely sick. In the hot summer months, we run sprinklers to every pen of pigs. Pigs do not sweat and therefore wallow in mud to cool off.  Sprinklers help to keep the pigs cool by maintaining a section of mud. 
 
 Raising pigs on pasture closely resembles their natural habitat and eliminates a lot of overhead costs. It can be tricky to keep the pigs comfortable and contained, but the animals always seem happy and manage to perform well.  
+
 
 ## Contact Me
 
