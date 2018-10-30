@@ -1,5 +1,6 @@
 # Learning to Think Big, but be Small 
 
+
 ## About Me
 
 I am Chania Hoffman. Currently, I am a senior at College of the Ozarks studying Animal Science and Agricultural Business. I grew up in central Missouri on a small farm where we raise poultry, sheep, cattle and of course…. PIGS!
@@ -62,3 +63,9 @@ Housing is another factor when using a pasture setting. Each paddock has 2-3 hou
 In the summer, the houses provide additional shade. This is vital because pigs’ sunburn just like people do. If the sunburn is severe enough, the pig can develop an infection and become extremely sick. In the hot summer months, we run sprinklers to every pen of pigs. Pigs do not sweat and therefore wallow in mud to cool off.  Sprinklers help to keep the pigs cool by maintaining a section of mud. 
 
 Raising pigs on pasture closely resembles their natural habitat and eliminates a lot of overhead costs. It can be tricky to keep the pigs comfortable and contained, but the animals always seem happy and manage to perform well.  
+
+## Contact Me
+
+Chania Hofman 
+Phone: (417) 239-9395
+Email: chaniashoffman@student.cofo.edu
