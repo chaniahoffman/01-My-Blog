@@ -27,7 +27,11 @@ The Berkshires and Hampshires are used to improve meat quality. These varieties 
 
 ![img_6263](https://user-images.githubusercontent.com/43041235/47758303-714f2a80-dc78-11e8-8853-a43a78443de6.JPG)
 
-The Yorkshires and commercial sows are used to improve litter size. These breeds are maternally based, meaning that on average they have more pigs per litter. We breed the maternal or white sows to a Berkshire or Hampshire boar that we keep. This cross-breeding generates better meat quality in the pigs that are farrowed from the white sows.  
+The Yorkshires and commercial sows are used to improve litter size. These breeds are maternally based, meaning that on average they have more pigs per litter. We breed the maternal or white sows to a Berkshire or Hampshire boar that we keep. This cross-breeding generates better meat quality in the pigs that are farrowed from the white sows. 
+
+![img_6258](https://user-images.githubusercontent.com/43041235/47758371-c5f2a580-dc78-11e8-9bb3-70cb49d77000.JPG)
+
+![img_5102](https://user-images.githubusercontent.com/43041235/47758393-d7d44880-dc78-11e8-9bba-892bef753695.JPG)
 
 Since our pigs run on dirt, I emphasize the structure of our breeding stock to ensure longevity. Correct composition of feet and legs is important, so the sows will be able to function on pasture where they do a lot of walking to graze, go to water, and come up to feed. The sows also need to be able to perform well on concrete and get up and down while in the crate. 
 
