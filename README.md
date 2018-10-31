@@ -60,6 +60,8 @@ Raising pigs on pasture closely resembles their natural habitat and eliminates a
 ***
 ## About Me
 
+![img_6058](https://user-images.githubusercontent.com/43041235/47758186-e110e580-dc77-11e8-8689-21d0a4e818ba.jpg)
+
 I am Chania Hoffman. Currently, I am a senior at College of the Ozarks studying Animal Science and Agricultural Business. I grew up in central Missouri on a small farm where we raise poultry, sheep, cattle and of course…. PIGS!
 
 Raising hogs is a hobby and a way of life for me, and I am constantly striving to learn all that I can about the hog industry and its ever-changing atmosphere. I first began working with pigs through 4-H and since then, I have not been able to get away. I have grown from showing pigs at my county fair, to developing a Supervised Agricultural Experience in FFA, I started working and became a student manager at my college’s hog farm and have completed an internship at a commercial hog farm. I have learned a lot and have worked to make hog farming my way of life.
@@ -73,6 +75,8 @@ My work experience includes;
 
 ***
 ## Contact Me
+
+![img_6032](https://user-images.githubusercontent.com/43041235/47758220-07cf1c00-dc78-11e8-8dc9-acaaa54221dd.jpg)
 
 Chania Hofman 
 
