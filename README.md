@@ -23,6 +23,10 @@ On the farm at CofO, we have several different breeds of hogs. Each breed brings
 
 The Berkshires and Hampshires are used to improve meat quality. These varieties are popular as heritage breeds because they fatten out well, and the Berkshires produce high quality bacon. We value this because the market hogs are sent to the processing plant on campus where the pork is served at The Keeter Center, our restaurant on campus.
 
+![img_6049](https://user-images.githubusercontent.com/43041235/47758286-5c729700-dc78-11e8-9f9a-04dee95dbd38.jpg)
+
+![img_6263](https://user-images.githubusercontent.com/43041235/47758303-714f2a80-dc78-11e8-8853-a43a78443de6.JPG)
+
 The Yorkshires and commercial sows are used to improve litter size. These breeds are maternally based, meaning that on average they have more pigs per litter. We breed the maternal or white sows to a Berkshire or Hampshire boar that we keep. This cross-breeding generates better meat quality in the pigs that are farrowed from the white sows.  
 
 Since our pigs run on dirt, I emphasize the structure of our breeding stock to ensure longevity. Correct composition of feet and legs is important, so the sows will be able to function on pasture where they do a lot of walking to graze, go to water, and come up to feed. The sows also need to be able to perform well on concrete and get up and down while in the crate. 
