@@ -35,6 +35,9 @@ The Yorkshires and commercial sows are used to improve litter size. These breeds
 
 Since our pigs run on dirt, I emphasize the structure of our breeding stock to ensure longevity. Correct composition of feet and legs is important, so the sows will be able to function on pasture where they do a lot of walking to graze, go to water, and come up to feed. The sows also need to be able to perform well on concrete and get up and down while in the crate. 
 
+![img_9032](https://user-images.githubusercontent.com/43041235/47758446-0baf6e00-dc79-11e8-97df-c9cb804475c4.JPG)
+
+
 There are many factors that go into selecting good breeding stock for each operation. Careful consideration is needed when choosing replacement stock and which boars to breed to. A producer is not going to learn everything in one day, so research and talking to other fellow farmers proves valuable.  
 
 ***
@@ -50,7 +53,11 @@ I had gotten out of class early and was sitting down to work on some unfinished 
 
 I put on an OB sleeve and lubed up. I cupped my hand and gently reached into the gilt’s vulva and passed the cervix. Right at her pelvic bone, I felt a head. It was going to be a tight fit! So, I tried to grab its head to pull it out. Unfortunately, I could not get the head and my hand through the pelvis at the same time, so I had to use a special set of forceps. I guided the wire into the birthing canal and worked the wire over the pig’s head and over one leg. If you wrap the wire over the head and then try to pull the pig out, it is common for the head to pop off and this leads to more issues. I got the wire situated and while working with the gilts contractions was able to successfully pull the pig out. I quickly dried the pig off and set it next to the sow to nurse. We had to assist the gilt with a few more pigs, but otherwise everything went well, and both gilt and piglets are doing fine. 
 
+![img_6247](https://user-images.githubusercontent.com/43041235/47758482-2c77c380-dc79-11e8-8c42-52ff42c01d7f.JPG)
+
 This is an example of the importance of caring for the animal health and welfare. If we had not been monitoring the gilt closely, the situation had the potential to be worse. Failure to assist in farrowing can result in the loss of an entire litter because the pigs become stressed while in the womb and die, the sow is unable to pass all of the pigs and is forced to abort the litter and mummify the piglets, or the sow or gilt can die due to stress, over-exertion, or even a heart attack. Timely responses in the farrowing process help to ensure healthy pigs which leads to better growth and vitality, resulting in more profit at market time.   
+
+![img_6246](https://user-images.githubusercontent.com/43041235/47758511-49ac9200-dc79-11e8-90ad-45b061d9b177.JPG)
 
 ***
 ## Keeping the Pigs In
