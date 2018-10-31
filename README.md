@@ -6,11 +6,15 @@
 ***
 ## What is Going On?  
 
+![img_6261](https://user-images.githubusercontent.com/43041235/47758605-bc1d7200-dc79-11e8-99cc-0c68c0518686.JPG)
+
 My college operates a small hog farm in southern Missouri. However, we are anything but typical. We have anywhere from 20-30 sows at a given time, but the catch is that our pigs are kept on pasture. Pasture pigs is a concept often considered outdated or not practical for the real world. Nevertheless, pasture raised pork is regaining some of its popularity, especially as a specialty product in niche markets. Our operation focuses on learning, and as a result, we employ various concepts throughout the farm to teach and challenge the students. We do face limitations that prevent us from experiencing all aspects of the commercial hog industry, but the skills learned can be easily transferred and built upon.
 
 With this writing experience, I am going to provide you, the reader, with a sense of what I do every day with my given level of exposure to hogs. My primary focus is my daily activities of working at the hog farm through my college and contributing some of my knowledge that I gained from working at a commercial facility. I will describe our selection criteria for pigs, maintaining animal health and welfare, as well as housing and containment in a pasture setting. Every day on the farm is different, but the main objectives are consistent. My goal is to share some of my passion for the industry. Raising hogs is not an easy or glorious job; it is dirty, time-consuming, smelly, and loud. However, it is also highly rewarding. Pigs are extremely intelligent creatures, and each one has a distinct personality that is seen over time. This brings many challenges to the farmer, but by overcoming and accepting the difficulties, the farmer gains pride in what he or she does.
 
 This blog is intended for anyone who has any interest in raising hogs. I can provide some groundwork concepts for those just starting out. This blog can also be used to introduce novel ideas for farmers who currently have hogs and want to try a different avenue. I cannot be fully inclusive or explain every aspect of the concepts of the hog industry. I can only explain what I know and what works for our operation. My hope is that the ideas and practices I discuss will fill you with interest into further research and will provide some new ideas to consider for your operation. The hog industry is diverse and thriving, and the little man is still able to contribute without over-extending resources. I want to demonstrate that the industry is approachable and accessible for all sizes of production. If not this, then I hope it is at least entertaining and brings awareness to agriculture and the passion that farmers possess.
+
+![img_6244](https://user-images.githubusercontent.com/43041235/47758629-d1929c00-dc79-11e8-9065-1b2376b0e118.JPG)
 
 ***
 ## Choose the Right Pigs
@@ -66,9 +70,13 @@ All the pigs located on the CofO hog farm are raised on dirt. This means the sow
 
 Fencing is a conundrum faced daily. The farm was established over 50 years ago, and most of the fencing was put in at that time. Over time, the original woven wire has become worn out and we are constantly discovering holes in the fences. Heavy rains have washed away sections and created buildup of debris. Since pigs are curious creatures, they are always testing the fence. We repair the fences the best we can but have gradually begun the arduous process of replacing all the fences. The woven wire will be replaced, but this time one strand of electric wire will be added about 6 inches above the ground along the inside. The electric wire will prevent the pigs from rooting underneath the wire and rubbing on the fence, which is the primary cause of escapes. 
 
-Housing is another factor when using a pasture setting. Each paddock has 2-3 houses that measure 8 feet square to provide shelter from the elements. Especially when loading the grow-outs, we never add more pigs than we have house space for. All the pigs should be able to comfortably fit in the houses at one time, which is approximately 10 market hogs. In the winter, straw bales are placed in the houses on a weekly basis. The straw gives the pigs a warm and dry place to lay and sleep. 
+Housing is another factor when using a pasture setting. Each paddock has 2-3 houses that measure 8 feet square to provide shelter from the elements. Especially when loading the grow-outs, we never add more pigs than we have house space for. All the pigs should be able to comfortably fit in the houses at one time, which is approximately 10 market hogs. In the winter, straw bales are placed in the houses on a weekly basis. The straw gives the pigs a warm and dry place to lay and sleep.
+
+![img_6254](https://user-images.githubusercontent.com/43041235/47758562-86788900-dc79-11e8-9fd6-520748fc2a27.JPG)
 
 In the summer, the houses provide additional shade. This is vital because pigs’ sunburn just like people do. If the sunburn is severe enough, the pig can develop an infection and become extremely sick. In the hot summer months, we run sprinklers to every pen of pigs. Pigs do not sweat and therefore wallow in mud to cool off.  Sprinklers help to keep the pigs cool by maintaining a section of mud. 
+
+![img_6262](https://user-images.githubusercontent.com/43041235/47758583-9db77680-dc79-11e8-98c6-24c1f64ec6b4.JPG)
 
 Raising pigs on pasture closely resembles their natural habitat and eliminates a lot of overhead costs. It can be tricky to keep the pigs comfortable and contained, but the animals always seem happy and manage to perform well.  
 
