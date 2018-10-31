@@ -47,6 +47,7 @@ The Yorkshires and commercial sows are used to improve litter size. These breeds
 
 ![img_5102](https://user-images.githubusercontent.com/43041235/47758393-d7d44880-dc78-11e8-9bba-892bef753695.JPG)
 
+*Yorkshire sow with a litter of cross-bred pigs*
 
 Since our pigs run on dirt, I emphasize the structure of our breeding stock to ensure longevity. Correct composition of feet and legs is important, so the sows will be able to function on pasture where they do a lot of walking to graze, go to water, and come up to feed. The sows also need to be able to perform well on concrete and get up and down while in the crate. 
 
