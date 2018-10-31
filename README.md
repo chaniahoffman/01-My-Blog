@@ -33,6 +33,8 @@ The Berkshires and Hampshires are used to improve meat quality. These varieties 
 
 ![img_6049](https://user-images.githubusercontent.com/43041235/47758286-5c729700-dc78-11e8-9f9a-04dee95dbd38.jpg)
 
+*A hampshire barrow*
+
 ![img_6263](https://user-images.githubusercontent.com/43041235/47758303-714f2a80-dc78-11e8-8853-a43a78443de6.JPG)
 
 The Yorkshires and commercial sows are used to improve litter size. These breeds are maternally based, meaning that on average they have more pigs per litter. We breed the maternal or white sows to a Berkshire or Hampshire boar that we keep. This cross-breeding generates better meat quality in the pigs that are farrowed from the white sows. 
