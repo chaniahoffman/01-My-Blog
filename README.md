@@ -91,9 +91,13 @@ Housing is another factor when using a pasture setting. Each paddock has 2-3 hou
 
 ![img_6254](https://user-images.githubusercontent.com/43041235/47758562-86788900-dc79-11e8-9fd6-520748fc2a27.JPG)
 
+*One of the many houses in a pasture*
+
 In the summer, the houses provide additional shade. This is vital because pigs’ sunburn just like people do. If the sunburn is severe enough, the pig can develop an infection and become extremely sick. In the hot summer months, we run sprinklers to every pen of pigs. Pigs do not sweat and therefore wallow in mud to cool off.  Sprinklers help to keep the pigs cool by maintaining a section of mud. 
 
 ![img_6262](https://user-images.githubusercontent.com/43041235/47758583-9db77680-dc79-11e8-98c6-24c1f64ec6b4.JPG)
+
+*A group of market hogs laying in a dry wallow*
 
 Raising pigs on pasture closely resembles their natural habitat and eliminates a lot of overhead costs. It can be tricky to keep the pigs comfortable and contained, but the animals always seem happy and manage to perform well.  
 
