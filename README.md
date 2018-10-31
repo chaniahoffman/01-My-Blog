@@ -68,13 +68,17 @@ My concern was justified.
 
 I had gotten out of class early and was sitting down to work on some unfinished homework when my boss calls me. He asked what I had going on for the rest of the day, and if I had time to come to the farm and look at the gilt. He said that I have the most experience with the farrowing process and the smallest hands. I obliged and drove to the farm. When I got there, I quickly changed into my work clothes and went to look. She had started farrowing early that morning and so far, had one live pig and three stillborn. She was still contracting, so I thought the most likely scenario was she had a pig stuck and needed help to get it out.
 
-I put on an OB sleeve and lubed up. I cupped my hand and gently reached into the gilt’s vulva and passed the cervix. Right at her pelvic bone, I felt a head. It was going to be a tight fit! So, I tried to grab its head to pull it out. Unfortunately, I could not get the head and my hand through the pelvis at the same time, so I had to use a special set of forceps. I guided the wire into the birthing canal and worked the wire over the pig’s head and over one leg. If you wrap the wire over the head and then try to pull the pig out, it is common for the head to pop off and this leads to more issues. I got the wire situated and while working with the gilts contractions was able to successfully pull the pig out. I quickly dried the pig off and set it next to the sow to nurse. We had to assist the gilt with a few more pigs, but otherwise everything went well, and both gilt and piglets are doing fine. 
+I put on an OB sleeve and lubed up. I cupped my hand and gently reached into the gilt’s vulva and passed the cervix. Right at her pelvic bone, I felt a head. It was going to be a tight fit! So, I tried to grab its head to pull it out. Unfortunately, I could not get the head and my hand through the pelvis at the same time, so I had to use a special tool for pulling pigs. I guided the wire into the birthing canal and worked the wire over the pig’s head and over one leg. If you wrap the wire over the head and then try to pull the pig out, it is common for the head to pop off and this leads to more issues. I got the wire situated and while working with the gilts contractions was able to successfully pull the pig out. I quickly dried the pig off and set it next to the sow to nurse. We had to assist the gilt with a few more pigs, but otherwise everything went well, and both gilt and piglets are doing fine. 
 
 ![img_6247](https://user-images.githubusercontent.com/43041235/47758482-2c77c380-dc79-11e8-8c42-52ff42c01d7f.JPG)
+
+*Pack of OB sleeves and pig pulling tool*
 
 This is an example of the importance of caring for the animal health and welfare. If we had not been monitoring the gilt closely, the situation had the potential to be worse. Failure to assist in farrowing can result in the loss of an entire litter because the pigs become stressed while in the womb and die, the sow is unable to pass all of the pigs and is forced to abort the litter and mummify the piglets, or the sow or gilt can die due to stress, over-exertion, or even a heart attack. Timely responses in the farrowing process help to ensure healthy pigs which leads to better growth and vitality, resulting in more profit at market time.   
 
 ![img_6246](https://user-images.githubusercontent.com/43041235/47758511-49ac9200-dc79-11e8-90ad-45b061d9b177.JPG)
+
+*Litter of berkshire cross pigs*
 
 ***
 ## Keeping the Pigs In
