@@ -53,6 +53,7 @@ Since our pigs run on dirt, I emphasize the structure of our breeding stock to e
 
 ![img_9032](https://user-images.githubusercontent.com/43041235/47758446-0baf6e00-dc79-11e8-97df-c9cb804475c4.JPG)
 
+*A representation of the kind of hog that works well for us*
 
 There are many factors that go into selecting good breeding stock for each operation. Careful consideration is needed when choosing replacement stock and which boars to breed to. A producer is not going to learn everything in one day, so research and talking to other fellow farmers proves valuable.  
 
