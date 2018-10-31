@@ -1,10 +1,10 @@
-# **LEARNING TO THINK BIG, BUT BE SMALL** 
+#  Title
 
 
 
 
 ***
-## What is Going On?  
+## Learning to Think Big, But Small 
 
 ![img_6261](https://user-images.githubusercontent.com/43041235/47758605-bc1d7200-dc79-11e8-99cc-0c68c0518686.JPG)
 
