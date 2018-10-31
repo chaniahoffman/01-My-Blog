@@ -1,4 +1,4 @@
-#  title
+#  Bringing Piggy Back
 
 
 
@@ -10,7 +10,7 @@
 
 *A view of a grow-out pen* 
 
-My college operates a small hog farm in southern Missouri. However, we are anything but typical. We manage 20-30 sows as a farrow to finish, but the catch is that our pigs are kept on pasture. Pasture pigs is a concept often considered outdated or not practical for the real world. Nevertheless, pasture raised pork is regaining some of its popularity, especially as a specialty product in niche markets. Our operation focuses on learning, and as a result, we employ various concepts throughout the farm to teach and challenge the students. We do face limitations that prevent us from experiencing all aspects of the commercial hog industry, but the skills learned can be easily transferred and built upon.
+My college operates a small hog farm in southern Missouri. However, we are anything but typical. We manage 20-30 sows as a farrow to finish, but the catch is that our pigs are kept on pasture. Pasture raised pigs is a concept often considered outdated or not practical for the real world. Nevertheless, pasture raised pork is regaining some of its popularity, especially as a specialty product in niche markets. Our operation focuses on learning, and as a result, we employ various concepts throughout the farm to teach and challenge the students. We do face limitations that prevent us from experiencing all aspects of the commercial hog industry, but the skills learned can be easily transferred and built upon.
 
 With this writing experience, I am going to provide you, the reader, with a sense of the challenges that we face when dealing with hogs. My primary focus is the daily activities of working at the hog farm through my college and contributing some of the knowledge that I have gained from working at a commercial facility. I will describe our selection criteria for pigs, maintaining animal health and welfare, as well as housing and containment in a pasture setting. Every day on the farm is different, but the main objectives are consistent. My goal is to share some of my passion for the industry. Raising hogs is not an easy or glorious job; it is dirty, time-consuming, smelly, and loud. However, it is highly rewarding. Pigs are extremely intelligent creatures, and each one has a distinct personality that is seen over time. This brings many challenges to the farmer, but by overcoming and accepting the difficulties, the farmer gains pride in what he or she does.
 
@@ -18,14 +18,14 @@ This blog is intended for anyone who has any interest in raising hogs. I can pro
 
 ![img_6244](https://user-images.githubusercontent.com/43041235/47758629-d1929c00-dc79-11e8-9065-1b2376b0e118.JPG)
 
-*Inside the barn are farrowing crates*
+*Farrow crates inside the barn*
 
 ***
-## Choose the Right Pigs
+## Choosing the Right Pigs
 
 Selecting the right pigs for any operation is not an easy task. Opinions fluctuate depending on the operation and the current concept of the ideal animal. Different types of pigs are better suited for diverse types of scenarios from commercial production type hogs, to heritage breeds, and even into the show pig sector. Both visual appraisal and written performance should be considered. The animal may look good, but do the numbers match up? 
 
-There are multiple examples of a breeder buying a phenomenal looking boar or gilt. But when they get home, the pig will not breed. Therefore, a lot of money is wasted on an animal that is sent to the slaughterhouse. It can also go the other way around, the pig may look great on paper with a respectable pedigree but may be physically unable to perform, such as lameness, or blind, etc.  
+There are multiple examples of a breeder buying a phenomenal looking boar or gilt, but when they get home, the pig will not breed. Therefore, a lot of money is wasted on an animal that is sent to the slaughterhouse. It can also go the other way around, the pig may look great on paper with a respectable pedigree but may be physically unable to perform, such as lameness, or blind, etc.  
 
 On the farm at CofO, we have several different breeds of hogs. Each breed brings something new to the table. The farm was founded with a Hampshire herd and has expanded to include Berkshires, Yorkshires, cross-breds, and commercial lines. 
 
@@ -33,11 +33,11 @@ The Berkshires and Hampshires are used to improve meat quality. These varieties 
 
 ![img_6049](https://user-images.githubusercontent.com/43041235/47758286-5c729700-dc78-11e8-9f9a-04dee95dbd38.jpg)
 
-*A hampshire barrow*
+*A Hampshire barrow*
 
 ![img_6263](https://user-images.githubusercontent.com/43041235/47758303-714f2a80-dc78-11e8-8853-a43a78443de6.JPG)
 
-*Oscar the Ugly, berkshire boar*
+*Oscar the Ugly, Berkshire boar*
 
 The Yorkshires and commercial sows are used to improve litter size. These breeds are maternally based, meaning that on average they have more pigs per litter. We breed the maternal or white sows to either our Berkshire or Hampshire boar. This cross-breeding generates better meat quality in the pigs that are farrowed from the white sows. 
 
@@ -62,7 +62,7 @@ There are many factors that go into selecting good breeding stock for each opera
 
 Animal health and welfare is the most important concept in the livestock industry. A producer cannot make money on animals that are not cared for properly. Administering to the health of the pigs begins on day one, sometimes before day one, and continues through the life of the pig. 
 
-For instance, the other day we had a gilt that had finally begun to farrow. This gilt has been in our holding pen for a few weeks to monitor and ensure she was in good condition. I was nervous because she is a smaller gilt and was unsure of the type of pigs the boar she was bred to would produce. I was afraid her pelvis would not be big enough, and she would have trouble farrowing. 
+For instance, the other day we had a gilt that had finally begun to farrow. This gilt had been in our holding pen for a few weeks to monitor and ensure she was in good condition. I was nervous because she is a smaller gilt and was unsure of the type of pigs the boar she was bred to would produce. I feared her pelvis would not be big enough, and she would have trouble farrowing. 
 
 My concern was justified. 
 
@@ -78,14 +78,14 @@ This is an example of the importance of caring for the animal health and welfare
 
 ![img_6246](https://user-images.githubusercontent.com/43041235/47758511-49ac9200-dc79-11e8-90ad-45b061d9b177.JPG)
 
-*Litter of berkshire cross pigs*
+*Litter of Berkshire cross pigs*
 
 ***
 ## Keeping the Pigs In
 
-All the pigs located on the CofO hog farm are raised on dirt. This means the sows are kept on pasture when they are not farrowing, and the pigs are moved to grow-out pens after they are weaned. This unusual setup presents many challenges when dealing with the weather and pig containment. 
+All the pigs located at the CofO hog farm are raised on dirt. This means the sows are kept on pasture when they are not farrowing, and the pigs are moved to grow-out pens after they are weaned. This unusual setup presents many challenges when dealing with the weather and pig containment. 
 
-Fencing is a conundrum faced daily. The farm was established over 50 years ago, and most of the fencing was put in at that time. Over the years, the original woven wire has become worn out and we are constantly discovering holes in the fences. Heavy rains have washed away sections and created buildup of debris. Since pigs are curious creatures, they are always testing the fence. We repair the fences the best we can but have gradually begun the arduous process of replacing all the fences. The woven wire will be replaced, but this time one strand of electric wire will be added about 6 inches above the ground along the inside. The electric wire will prevent the pigs from rooting underneath the wire and rubbing on the fence, which is the primary cause of escapes. 
+Fencing is a conundrum faced daily. The farm was established over 50 years ago, and most of the fencing was put in at that time. Over the years, the original woven wire has become worn out and we are constantly discovering holes in the fences. Heavy rains have washed away sections and created buildup of debris. Since pigs are curious creatures, they are always testing the fence. We repair the fences the best we can, but we have gradually begun the arduous process of replacing all the fences. The woven wire will be replaced, but this time one strand of electric wire will be added about 6 inches above the ground along the inside. The electric wire will prevent the pigs from rooting underneath the wire and rubbing on the fence, which is the primary cause of escapes. 
 
 Housing is another factor when using a pasture setting. Each paddock has 2-3 houses that measure 8x8 feet to provide shelter from the elements. Especially when loading the grow-outs, we never add more pigs than we have house space for. All the pigs should be able to comfortably fit in the houses at one time, which is approximately 10 market hogs. In the winter, straw bales are placed in the houses on a weekly basis. The straw gives the pigs a warm and dry place to lay and sleep.
 
